@@ -1,6 +1,6 @@
 # The-Anonymous
 ## What does this do?
-#### This is a self-hosted, open-source, end-to-end encrypted chat application that doesn't save conversations. Basically, when you create a conversation, a private and public key pair is generated locally on your browser. Nobody else (including the server) knows what the private key is. When you send messages to the other person using this application, the message is encrypted using RSA. Conversations are stored locally as well, so the server literally saves no information about you by design. 
+#### This is a chat application that doesn't ask for any confidential data to start a conversations. Basically, people will be chating via their ip addresses. when you create a conversation, a private and public key pair is generated locally on your browser. Nobody else (including the server) knows what the private key is. When you send messages to the other person using this application, the message is encrypted using RSA. Conversations are stored locally as well, so the server literally saves no information about you by design.
 
 ## Why would I need this?
 #### Pretty much every social media platform has a chat feature, but they all store your chats in such a way that they can read them. This is a massive invasion of privacy.What if you want to share a secret with one person, and one person only? Wouldn't you feel better knowing potentially hundreds of people don't have access to your conversations?
