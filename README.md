@@ -5,7 +5,7 @@
 ## Why would I need this?
 #### Pretty much every social media platform has a chat feature, but they all store your chats in such a way that they can read them. This is a massive invasion of privacy.What if you want to share a secret with one person, and one person only? Wouldn't you feel better knowing potentially hundreds of people don't have access to your conversations?
 
-##Why can't I just use an app like Signal?
+## Why can't I just use an app like Signal?
 #### You can, and you should, but for regular conversations. Most messaging apps store your conversations on their servers. I believe Signal stores them locally though. For the ones that store them on their servers, they might be encrypted, but they're still stored. The Anonymous doesn't even store them. It literally stores nothing but the time at which a conversation was created, its participant's anonymous IDs (randomly generated),  and their public keys (also randomly generated). So what's better? Encryption, or no data  existing in the first place? 
 
 ## How does it work?
